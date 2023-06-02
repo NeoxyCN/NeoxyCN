@@ -10,7 +10,7 @@ I use C# for developing desktop application, JavaScript for website.
 - 🌱 现在正在学习 C, C++ and Javascript.  
 
 我用C#开发桌面软件，JavaScript用来开发网站  
-![Language][https://github-readme-stats.vercel.app/api/top-langs/?username=NeoxyCN]  
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoxyCN)  
 
 <!--
 **NeoxyCN/NeoxyCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
