@@ -6,7 +6,7 @@ My major is geophysics, but I prefer computer science.
 ### 你好！
 我是Neoxy，要是名字被占了，我也可以是NeoxyCN.  
 本科专业是地球物理学，但是我更喜欢计算机科学。  
-- 🌱 现在正在学习 C, C++ and Javascript.  
+- 🌱 现在正在学习 C, C++ 和 Javascript.  
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoxyCN)  
 
