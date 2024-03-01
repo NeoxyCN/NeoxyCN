@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ![Testcraft](https://github.com/NeoxyCN/Testcraft)  
+- 🔭 I’m currently working on [Testcraft](https://github.com/NeoxyCN/Testcraft)  
 - 🌱 I’m currently learning C, C++, Rust and JavaScript.  
 
 ### 你好！
 
-- 🔭 正在制作 ![Testcraft](https://github.com/NeoxyCN/Testcraft)  
+- 🔭 正在制作 [Testcraft](https://github.com/NeoxyCN/Testcraft)  
 - 🌱 现在正在学习 C, C++, Rust 和 Javascript.  
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoxyCN)  
