@@ -1,13 +1,13 @@
 ### Hi there 👋
-
+### 你好！
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoxyCN)  
+<!--
 - 🔭 I’m currently working on [Testcraft](https://github.com/NeoxyCN/Testcraft)  
 
-### 你好！
+
 
 - 🔭 正在制作 [Testcraft](https://github.com/NeoxyCN/Testcraft)  
-
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoxyCN)  
-
+-->
 <!--
 **NeoxyCN/NeoxyCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
