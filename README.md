@@ -1,7 +1,8 @@
 ### Hi there 👋
 ### 你好！
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=neoxycn&layout=compact&langs_count=10)  
 <!--
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=neoxycn&layout=compact&langs_count=10)  
+
 - 🔭 I’m currently working on [Testcraft](https://github.com/NeoxyCN/Testcraft)  
 
 
