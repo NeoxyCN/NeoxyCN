@@ -1,5 +1,7 @@
 ### Hi there 👋
 ### 你好！
+
+email: neoxycn AT qq.com
 <!--
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=neoxycn&layout=compact&langs_count=10)  
 
